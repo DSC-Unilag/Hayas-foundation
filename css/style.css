@@ -221,7 +221,7 @@ h6 {
 }
 
 #intro .intro-info h2 {
-  color: #4574a0;
+  color: #0084ff;
   margin-bottom: 40px;
   font-size: 48px;
   font-weight: 400;
@@ -1491,7 +1491,8 @@ h6 {
 
 @media (max-width: 991px) {
   #topbar {
-    display: none;
+    /* display: none; */
+    float: left;
   }
 
   #header {
