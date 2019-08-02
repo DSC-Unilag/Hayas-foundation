@@ -1,6 +1,8 @@
-Thanks for downloading this theme!
+##About project
+Hayas foundation was founded with a selfless spirit to make a contribution to the world, by empowering the female gender, providing the necessary skills that will advance their lifestyles as women. We exist to create a web of passionate women willing to come together to help lift other women
 
-Theme Name: Rapid
-Theme URL: https://bootstrapmade.com/rapid-multipurpose-bootstrap-business-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+##Contributors
+Abdullahi Abdulkabir
+AbdulBaqi Adekomi
+Usman Akanbi
+Mishael Worunmi 
